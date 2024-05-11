@@ -2,7 +2,7 @@
   "name": "tech-depot",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://itzreggiegithub.io/Tech-Depot",
+  "homepage": "https://itzreggie.github.io/Tech-Depot",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },

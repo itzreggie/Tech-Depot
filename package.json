@@ -2,10 +2,14 @@
   "name": "tech-depot",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://itzreggiegithub.io/Tech-Depot",
   "scripts": {
-    "deploy": "gh pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Ekong Rejoice",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }

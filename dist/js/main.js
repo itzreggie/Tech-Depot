@@ -22,11 +22,9 @@ function toggleMenu() {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-  // Get the elements
   const showMoreButton = document.getElementById('showMoreButton');
   const pointAContainer = document.getElementById('pointAContainer');
 
-  // Function to toggle the visibility of Point A
   function togglePointA() {
     if (pointAContainer.style.display === 'none') {
       pointAContainer.style.display = 'block';
@@ -37,6 +35,5 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 
-  // Add event listener to the button
   showMoreButton.addEventListener('click', togglePointA);
 });

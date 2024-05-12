@@ -4,7 +4,7 @@ My Name is Ekong Rejoice and this is website i made for my project in this front
 Tech Depot is a comprehensive online platform catering to users' needs for electronic items, home appliances, devices, and more.
 
 ## Running The Project
-In order to successfully run the project you can copy and paste the url provided below.
+In order to successfully run the project you can copy and paste the link provided.You can also click the link
 https://itzreggie.github.io/Tech-Depot/
 
 ## Homepage

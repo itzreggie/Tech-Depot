@@ -1,6 +1,6 @@
 # Tech Depot
 
-My Name is Ekong Rejoice and this is website i made for my project in this front-end course.
+My name is Ekong Rejoice and this is website i made for my project in this front-end course.
 Tech Depot is a comprehensive online platform catering to users' needs for electronic items, home appliances, devices, and more.
 
 ## Running The Project
@@ -8,7 +8,7 @@ In order to successfully run the project you can copy and paste the link provide
 https://itzreggie.github.io/Tech-Depot/
 
 To see the video of the project running you can copy and paste the link provided. You can also click the link
-https://lut-my.sharepoint.com/:v:/r/personal/rejoice_ekong_student_lut_fi/Documents/Tech%20Depot.mp4?csf=1&web=1&e=AHSdHM
+https://lut-my.sharepoint.com/:v:/g/personal/rejoice_ekong_student_lut_fi/EQ8wxsN-L7ZGu6K_t7G7zf0BIPMOipEUGhr7LWuqZzJmLg?e=l9Pzk9
 
 ## Homepage
 

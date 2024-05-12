@@ -7,6 +7,9 @@ Tech Depot is a comprehensive online platform catering to users' needs for elect
 In order to successfully run the project you can copy and paste the link provided.You can also click the link
 https://itzreggie.github.io/Tech-Depot/
 
+To see the video of the project running you can copy and paste the link provided. You can also click the link
+https://lut-my.sharepoint.com/:v:/r/personal/rejoice_ekong_student_lut_fi/Documents/Tech%20Depot.mp4?csf=1&web=1&e=AHSdHM
+
 ## Homepage
 
 Upon opening the website, users are greeted with a user-friendly navigation bar proudly displaying the Tech Depot logo. They can effortlessly navigate through pages like Home, Product, About, and Contact.
